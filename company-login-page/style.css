@@ -1,0 +1,87 @@
+.outer-box{
+    position: relative;
+    margin: 10px auto;
+    width: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.logoimg{
+
+    display: flex;
+    justify-content: center;
+    left: 20px;
+    margin: 2px auto;
+}
+.wrapper{
+    align-self: center;
+}
+
+.button{
+    
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 15px 25px 15px 25px;
+    font-size: 0.9em;
+    font-weight: 500;
+    width: 150px;
+    margin: 15px auto;
+}
+
+.inp{
+    width: inherit;
+    margin: 5px;
+}
+
+.ibox{
+    padding: 17px;
+    width: 360px;
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.405);
+    font-size: 0.9em;
+    margin: 5px;
+}
+
+.member{
+    color: grey;
+    font-size: 14px;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    color: rgb(85, 84, 84);
+}
+
+.pw{
+text-align: center;
+}
+
+.box1{
+    flex: content;
+}
+
+.btn{
+    left: 50%;
+    margin: 5px auto;
+}
+
+.info{
+    color: rgba(85, 84, 84, 0.723);
+    font-size: 0.9em;
+    text-align: center;
+}
+
+.pw{
+    font-size: 0.9em;
+}
+
+p{
+    text-align: center;
+}
